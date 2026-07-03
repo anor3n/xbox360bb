@@ -1,0 +1,9 @@
+[package]
+name = "xbox360bb"
+version = "0.1.0"
+edition = "2024"
+readme = "README.md"
+description = "Userspace Rust library for Xbox 360 Big Button controllers"
+
+[lib]
+path = "src/lib.rs"
